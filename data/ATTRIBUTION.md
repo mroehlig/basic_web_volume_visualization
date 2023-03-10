@@ -1,0 +1,1 @@
+"[engine_256x256x128_uint8.raw](https://klacansky.com/open-scivis-datasets/engine/)" CT scan of two cylinders of an engine block. Acknowledgements to volvis.org and General Electric. Dataset provided by the Open SciVis Datasets Repository by Pavol Klacansky (https://klacansky.com/open-scivis-datasets/).

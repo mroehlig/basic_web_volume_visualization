@@ -7,9 +7,14 @@
     
     <link rel="stylesheet"  type="text/css" href="./style.css">
     <link rel="icon" type="image/x-icon" href="./favicon.ico">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako_inflate.min.js" integrity="sha512-mlnC6JeOvg9V4vBpWMxGKscsCdScB6yvGVCeFF2plnQMRmwH69s9F8SHPbC0oirqfePmRBhqx2s3Bx7WIvHfWg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script language="javascript" type="text/javascript" src="./index.js"></script>
 </head>
 <body>
     <canvas id="canvas" width="800" height="800"></canvas>
+    <div>
+        <label for="sliceSlider">Slice:</label>
+        <input type="range" id="sliceSlider" min="1" max="100" value="50">
+    </div>
 </body>
 </html>
